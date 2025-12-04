@@ -26,7 +26,7 @@ A production-ready Node.js boilerplate with TypeScript, Express, and best practi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/my-node-ts-app.git
+git clone https://github.com/talha-shah2031/node-js-template.git
 cd my-node-ts-app
 ```
 
@@ -161,9 +161,7 @@ The `tsconfig.json` is optimized for production:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the ISC License.
 
 ## 🙏 Acknowledgments
 
@@ -176,3 +174,4 @@ This project is licensed under the ISC License.
 **Happy Coding!** 🎉
 
 For questions or issues, please open an issue on GitHub.
+
